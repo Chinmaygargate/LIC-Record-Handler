@@ -1,0 +1,80 @@
+C:\Users\pc\documents\visual studio 2010\Projects\lic_RH\lic_RH\bin\Debug\lic_RH.exe
+C:\Users\pc\documents\visual studio 2010\Projects\lic_RH\lic_RH\bin\Debug\lic_RH.pdb
+C:\Users\pc\documents\visual studio 2010\Projects\lic_RH\lic_RH\obj\x86\Debug\lic_RH.csprojResolveAssemblyReference.cache
+C:\Users\pc\documents\visual studio 2010\Projects\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Form1.resources
+C:\Users\pc\documents\visual studio 2010\Projects\lic_RH\lic_RH\obj\x86\Debug\lic_RH.login.resources
+C:\Users\pc\documents\visual studio 2010\Projects\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Properties.Resources.resources
+C:\Users\pc\documents\visual studio 2010\Projects\lic_RH\lic_RH\obj\x86\Debug\lic_RH.csproj.GenerateResource.Cache
+C:\Users\pc\documents\visual studio 2010\Projects\lic_RH\lic_RH\obj\x86\Debug\lic_RH.exe
+C:\Users\pc\documents\visual studio 2010\Projects\lic_RH\lic_RH\obj\x86\Debug\lic_RH.pdb
+C:\Users\pc\documents\visual studio 2010\Projects\lic_RH\lic_RH\obj\x86\Debug\lic_RH.create_ac.resources
+C:\Users\pc\documents\visual studio 2010\Projects\lic_RH\lic_RH\obj\x86\Debug\lic_RH.mainpage.resources
+C:\Users\pc\documents\visual studio 2010\Projects\lic_RH\lic_RH\obj\x86\Debug\lic_RH.regester.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.exe
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.pdb
+E:\lic_RH\lic_RH\bin\Debug\lic_RH.exe
+E:\lic_RH\lic_RH\bin\Debug\lic_RH.pdb
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.csprojResolveAssemblyReference.cache
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.create_ac.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.login.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.mainpage.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Properties.Resources.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.regester.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.csproj.GenerateResource.Cache
+E:\lic_RH\lic_RH\bin\Debug\Lic.mdf
+E:\lic_RH\lic_RH\bin\Debug\Lic_log.ldf
+E:\lic_RH\lic_RH\bin\Debug\lic_RH.exe.config
+F:\lic_RH\lic_RH\bin\Debug\lic_RH.exe.config
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.exe
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.pdb
+F:\lic_RH\lic_RH\bin\Debug\Lic.mdf
+F:\lic_RH\lic_RH\bin\Debug\Lic_log.ldf
+F:\lic_RH\lic_RH\bin\Debug\lic_RH.exe
+F:\lic_RH\lic_RH\bin\Debug\lic_RH.pdb
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.csprojResolveAssemblyReference.cache
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.create_ac.resources
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.login.resources
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.mainpage.resources
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Properties.Resources.resources
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.regester.resources
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.csproj.GenerateResource.Cache
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.search_facility.resources
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Forget_pass.resources
+D:\lic_RH\lic_RH\bin\Debug\lic_RH.exe.config
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.exe
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.pdb
+D:\lic_RH\lic_RH\bin\Debug\Lic.mdf
+D:\lic_RH\lic_RH\bin\Debug\Lic_log.ldf
+D:\lic_RH\lic_RH\bin\Debug\lic_RH.exe
+D:\lic_RH\lic_RH\bin\Debug\lic_RH.pdb
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.csprojResolveAssemblyReference.cache
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.create_ac.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Forget_pass.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.login.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.mainpage.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Properties.Resources.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.regester.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.search_facility.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.csproj.GenerateResource.Cache
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Customer_report_form.resources
+F:\lic_RH\lic_RH\bin\Debug\crdb_adoplus.dll
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Searching_report_form.resources
+F:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.About.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.About.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Customer_report_form.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Searching_report_form.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.About.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Customer_report_form.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Forget_pass.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.search_facility.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Searching_report_form.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Maturity_clients.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.premium_clients.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Premium_Management.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Premium_calci.resources
+E:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.View_policy.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Maturity_clients.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Premium_calci.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.premium_clients.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.Premium_Management.resources
+D:\lic_RH\lic_RH\obj\x86\Debug\lic_RH.View_policy.resources
